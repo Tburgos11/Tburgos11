@@ -8,9 +8,9 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Thomas Burgos  
+* Ocupación: Esudiante de Ingenieria en computación.
+* Lugar de residencia: Ecuador, Guayaquil.
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]

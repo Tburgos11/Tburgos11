@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0808363d-aa06-4c7a-884f-3cf1eb53875e)## Hi there 👋
+## Hi there 👋
 
 # Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
@@ -13,6 +13,7 @@ proyectos y mis intereses.
 * **Ocupación:** *Esudiante de Ingenieria en computación.*
 * **Lugar de residencia:** *Ecuador, Guayaquil.*
 * **Sitio web:** [Mi pagina](https://tburgos11.github.io/Tburgos11/)
+  ![image](https://github.com/user-attachments/assets/0808363d-aa06-4c7a-884f-3cf1eb53875e)
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses

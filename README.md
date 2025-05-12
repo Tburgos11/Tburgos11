@@ -16,3 +16,11 @@ proyectos y mis intereses.
 * [Lista de tus proyectos]
 ## Intereses
 * [Lista de tus intereses]
+## Tecnologías usadas
+Las tecnologías que utilizo en mis proyectos son:
+
+- C  
+- C++  
+- MySQL  
+- Java  
+- CSS

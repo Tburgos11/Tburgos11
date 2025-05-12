@@ -7,7 +7,7 @@ proyectos y mis intereses.
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
-* [Tecnologías usadas](#tecnologías-usadas).
+* [Tecnologías usadas](#tecnologías-usadas)
 ## Información personal
 * **Nombre:** *Thomas Burgos*  
 * **Ocupación:** *Esudiante de Ingenieria en computación.*
